@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ResumeRAG – AI-Powered Resume Intelligence System</title>
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- App Stylesheet -->
+  <link rel="stylesheet" href="css/style.css?v=2">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <nav class="navbar">
+    <div class="brand">
+      <div class="brand-icon"><i class="fa-solid fa-file-contract"></i></div>
+      <div class="brand-text">Resume<span>RAG</span></div>
+    </div>
+    <div class="nav-links">
+      <a href="index.html" class="nav-item active"><i class="fa-solid fa-gauge"></i> Dashboard & Upload</a>
+      <a href="search.html" class="nav-item"><i class="fa-solid fa-magnifying-glass"></i> Semantic Search</a>
+    </div>
+    <div class="ai-status-badge" id="aiStatusBadge">
+      <div class="status-dot"></div>
+      <span id="aiStatusText">System Ready</span>
+    </div>
+  </nav>
+
+  <!-- Main Container -->
+  <div class="container">
+
+    <!-- Page Header -->
+    <div class="page-header">
+      <h1 class="page-title">Recruitment Dashboard & Resume Ingestion</h1>
+      <p class="page-subtitle">Upload multiple candidate resumes (PDF/DOCX) to build your vector intelligence database.</p>
+    </div>
+
+    <!-- Stats Grid -->
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-icon"><i class="fa-solid fa-file-pdf"></i></div>
+        <div>
+          <div class="stat-number" id="statResumes">0</div>
+          <div class="stat-label">Uploaded Resumes</div>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon"><i class="fa-solid fa-user-check"></i></div>
+        <div>
+          <div class="stat-number" id="statCandidates">0</div>
+          <div class="stat-label">Candidate Profiles</div>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon"><i class="fa-solid fa-code"></i></div>
+        <div>
+          <div class="stat-number" id="statSkills">0</div>
+          <div class="stat-label">Extracted Skills</div>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon"><i class="fa-solid fa-cubes"></i></div>
+        <div>
+          <div class="stat-number" id="statChunks">0</div>
+          <div class="stat-label">Vector Chunks Indexed</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Upload Card -->
+    <div class="card" style="margin-bottom: 2.5rem;">
+      <h2 style="font-family: 'Outfit', sans-serif; font-size: 1.4rem; margin-bottom: 1.25rem;">
+        <i class="fa-solid fa-cloud-arrow-up" style="color: var(--accent-primary);"></i> Multi-Resume Upload
+      </h2>
+
+      <div class="dropzone" id="dropzone">
+        <div class="dropzone-icon"><i class="fa-solid fa-file-arrow-up"></i></div>
+        <div class="dropzone-title">Drag & Drop Resumes Here</div>
+        <div class="dropzone-hint">Supports multiple PDF or DOCX files (Max 10MB per file)</div>
+        <input type="file" id="fileInput" multiple accept=".pdf,.docx" style="display: none;">
+        <button class="btn btn-primary" style="margin-top: 1.2rem;" onclick="document.getElementById('fileInput').click()">
+          <i class="fa-solid fa-folder-open"></i> Browse Files
+        </button>
+      </div>
+
+      <!-- Upload Progress -->
+      <div class="progress-bar-container" id="progressContainer">
+        <div class="progress-bar-fill" id="progressBarFill"></div>
+      </div>
+      <div id="uploadStatusMessage" style="font-size: 0.9rem; font-weight: 600; color: var(--accent-cyan); text-align: center;"></div>
+    </div>
+
+    <!-- Uploaded Candidate Profiles Table -->
+    <div class="card">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem;">
+        <h2 style="font-family: 'Outfit', sans-serif; font-size: 1.4rem;">
+          <i class="fa-solid fa-users" style="color: var(--accent-cyan);"></i> Candidate Profiles Database
+        </h2>
+        <a href="search.html" class="btn btn-primary">
+          <i class="fa-solid fa-magnifying-glass"></i> Launch Candidate Search
+        </a>
+      </div>
+
+      <div id="candidatesListTable">
+        <p style="color: var(--text-muted); text-align: center; padding: 2rem;">Loading candidates database...</p>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    ResumeRAG – AI-Powered Resume Intelligence System &copy; 2026
+  </footer>
+
+  <script src="js/upload.js?v=2"></script>
+</body>
+</html>

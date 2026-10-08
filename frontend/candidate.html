@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Candidate Profile Details – ResumeRAG</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css?v=2">
+  <link rel="stylesheet" href="css/interview.css?v=2">
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="brand">
+      <div class="brand-icon"><i class="fa-solid fa-file-contract"></i></div>
+      <div class="brand-text">Resume<span>RAG</span></div>
+    </div>
+    <div class="nav-links">
+      <a href="index.html" class="nav-item"><i class="fa-solid fa-gauge"></i> Dashboard & Upload</a>
+      <a href="search.html" class="nav-item"><i class="fa-solid fa-magnifying-glass"></i> Semantic Search</a>
+    </div>
+  </nav>
+
+  <div class="container">
+
+    <div style="margin-bottom: 1.5rem;">
+      <a href="search.html" class="btn btn-secondary" style="font-size: 0.85rem;">
+        <i class="fa-solid fa-arrow-left"></i> Back to Candidate Search
+      </a>
+    </div>
+
+    <!-- Profile Banner -->
+    <div id="profileHeaderContainer">
+      <div class="card" style="text-align: center; padding: 3rem;">
+        <i class="fa-solid fa-spinner fa-spin" style="font-size: 2rem; color: var(--accent-primary);"></i>
+        <p style="margin-top: 1rem; color: var(--text-secondary);">Loading candidate profile...</p>
+      </div>
+    </div>
+
+    <!-- Detailed Profile Sections -->
+    <div id="profileSectionsContainer"></div>
+
+  </div>
+
+  <footer>
+    ResumeRAG – AI-Powered Resume Intelligence System &copy; 2026
+  </footer>
+
+  <script src="js/candidate.js?v=2"></script>
+</body>
+</html>

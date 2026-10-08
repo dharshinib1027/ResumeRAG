@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recruiter Semantic Search – ResumeRAG</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css?v=2">
+  <link rel="stylesheet" href="css/search.css?v=2">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <nav class="navbar">
+    <div class="brand">
+      <div class="brand-icon"><i class="fa-solid fa-file-contract"></i></div>
+      <div class="brand-text">Resume<span>RAG</span></div>
+    </div>
+    <div class="nav-links">
+      <a href="index.html" class="nav-item"><i class="fa-solid fa-gauge"></i> Dashboard & Upload</a>
+      <a href="search.html" class="nav-item active"><i class="fa-solid fa-magnifying-glass"></i> Semantic Search</a>
+    </div>
+    <div class="ai-status-badge">
+      <div class="status-dot"></div>
+      <span>Vector Search Ready</span>
+    </div>
+  </nav>
+
+  <!-- Container -->
+  <div class="container">
+
+    <div class="page-header">
+      <h1 class="page-title">Recruiter Candidate Search</h1>
+      <p class="page-subtitle">Search across all candidate resumes using natural-language queries and vector similarity matching.</p>
+    </div>
+
+    <!-- Search Input Form -->
+    <form id="searchForm" onsubmit="return false;">
+      <div class="search-box-wrapper">
+        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+        <input 
+          type="text" 
+          id="searchInput" 
+          class="search-input" 
+          placeholder="e.g. Find candidates with Machine Learning and Python experience..." 
+          autocomplete="off"
+        >
+        <button type="submit" id="searchBtn" class="btn btn-primary search-submit-btn">
+          <i class="fa-solid fa-sparkles"></i> Search Candidates
+        </button>
+      </div>
+    </form>
+
+    <!-- Suggestion Chips -->
+    <div class="suggestion-chips">
+      <span class="chip-label"><i class="fa-solid fa-lightbulb"></i> Try Queries:</span>
+      <button class="chip" onclick="setQuery('Candidates with Machine Learning skills')">Machine Learning</button>
+      <button class="chip" onclick="setQuery('Python and SQL developers')">Python & SQL</button>
+      <button class="chip" onclick="setQuery('NLP and Generative AI experience')">NLP & Generative AI</button>
+      <button class="chip" onclick="setQuery('Predictive modeling and Scikit-learn')">Predictive Modeling</button>
+      <button class="chip" onclick="setQuery('RAG and ChromaDB vector search')">RAG & ChromaDB</button>
+      <button class="chip" onclick="setQuery('More than 5 years experience')">5+ Years Experience</button>
+    </div>
+
+    <!-- Results Section -->
+    <div id="resultsHeader" style="margin-bottom: 1.5rem; display: none;">
+      <h2 style="font-family: 'Outfit', sans-serif; font-size: 1.5rem; display: flex; align-items: center; gap: 0.75rem;">
+        <i class="fa-solid fa-layer-group" style="color: var(--accent-primary);"></i> 
+        Search Results <span id="resultsCountBadge" class="skill-tag" style="font-size: 0.9rem;">0 Candidates</span>
+      </h2>
+    </div>
+
+    <div id="candidateResultsGrid" class="candidate-grid">
+      <!-- Default Initial State -->
+      <div class="empty-state" style="grid-column: 1 / -1;">
+        <div class="empty-state-icon"><i class="fa-solid fa-magnifying-glass-location"></i></div>
+        <h3>Enter a natural-language search query above</h3>
+        <p>ResumeRAG will embed your query and match candidate resumes using vector similarity.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    ResumeRAG – AI-Powered Resume Intelligence System &copy; 2026
+  </footer>
+
+  <script src="js/search.js?v=2"></script>
+</body>
+</html>

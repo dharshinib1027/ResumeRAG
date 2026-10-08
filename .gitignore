@@ -1,0 +1,36 @@
+# Environment variables
+.env
+.env.local
+*.env
+
+# Python & Virtual Environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+env/
+
+# Testing & Notebooks
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+
+# Data & Database storage
+backend/data/chroma_db/*
+!backend/data/chroma_db/.gitkeep
+backend/data/resumes/*
+!backend/data/resumes/.gitkeep
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
+backend/data/vectorstore/*
+!backend/data/vectorstore/.gitkeep
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

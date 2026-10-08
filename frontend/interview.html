@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume-Grounded Interview Questions – ResumeRAG</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css?v=2">
+  <link rel="stylesheet" href="css/interview.css?v=2">
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="brand">
+      <div class="brand-icon"><i class="fa-solid fa-file-contract"></i></div>
+      <div class="brand-text">Resume<span>RAG</span></div>
+    </div>
+    <div class="nav-links">
+      <a href="index.html" class="nav-item"><i class="fa-solid fa-gauge"></i> Dashboard & Upload</a>
+      <a href="search.html" class="nav-item"><i class="fa-solid fa-magnifying-glass"></i> Semantic Search</a>
+    </div>
+  </nav>
+
+  <div class="container">
+
+    <div style="margin-bottom: 1.5rem; display: flex; justify-content: space-between; align-items: center;">
+      <a href="javascript:history.back()" class="btn btn-secondary" style="font-size: 0.85rem;">
+        <i class="fa-solid fa-arrow-left"></i> Back
+      </a>
+      <button class="btn btn-secondary" onclick="copyAllQuestions()">
+        <i class="fa-solid fa-copy"></i> Copy All Questions
+      </button>
+    </div>
+
+    <!-- Candidate Header Banner -->
+    <div id="interviewCandidateHeader"></div>
+
+    <!-- Generated Questions Container -->
+    <div id="questionsContainer">
+      <div class="card" style="text-align: center; padding: 4rem 2rem;">
+        <i class="fa-solid fa-brain fa-spin" style="font-size: 3rem; color: var(--accent-primary); margin-bottom: 1.2rem;"></i>
+        <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.5rem; margin-bottom: 0.5rem;">
+          Generating Grounded Interview Questions...
+        </h3>
+        <p style="color: var(--text-secondary); max-width: 500px; margin: 0 auto;">
+          Analyzing candidate's resume context, extracted technical skills, and project accomplishments to craft personalized interview questions.
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    ResumeRAG – AI-Powered Resume Intelligence System &copy; 2026
+  </footer>
+
+  <script src="js/interview.js?v=2"></script>
+</body>
+</html>

@@ -1,0 +1,261 @@
+{
+  "cand_da3ebd53": {
+    "candidate_id": "cand_da3ebd53",
+    "candidate_name": "VIKRAM DESAI",
+    "resume_id": "da3ebd53",
+    "filename": "ResumeRAG_Test_Resume_Vikram_Desai_Experienced.docx",
+    "upload_date": "2026-10-03T18:30:00.309604",
+    "contact_info": {
+      "email": "vikram.desai@example.com",
+      "phone": "",
+      "linkedin": "linkedin.com/in/vikramdesai",
+      "github": ""
+    },
+    "skills": [
+      "Python",
+      "Java",
+      "Javascript",
+      "Sql",
+      "Machine learning",
+      "Nlp",
+      "Generative ai",
+      "Rag",
+      "Chromadb",
+      "Langchain",
+      "Pytorch",
+      "Scikit-learn",
+      "Pandas",
+      "Xgboost",
+      "Docker",
+      "Kubernetes",
+      "Aws",
+      "Fastapi",
+      "Flask",
+      "Git",
+      "Ci/cd"
+    ],
+    "section_dict": {
+      "summary": "Software and AI/ML Engineer with 6+ years of professional experience building backend systems, machine learning applications, and production AI services. Experienced in Python, Java, SQL, microservices, NLP, RAG, cloud platforms, and MLOps. Has worked across product development, model deployment, API design, and technical mentoring.",
+      "education": "M.Tech in Artificial Intelligence \u2014 Institute of Technology Mumbai | 2018\u20132020 | CGPA: 8.9/10\nB.Tech in Computer Science and Engineering \u2014 Pune Engineering College | 2014\u20132018 | CGPA: 8.6/10",
+      "skills": "Programming: Python, Java, SQL, JavaScript\nMachine Learning: Scikit-learn, XGBoost, Classification, Regression, NLP, Feature Engineering\nGenerative AI: RAG, LLMs, Embeddings, Prompt Engineering, Semantic Search\nBackend: FastAPI, Flask, Spring Boot, REST APIs, Microservices\nDatabases: PostgreSQL, MySQL, MongoDB, Redis\nCloud/MLOps: AWS, Docker, Kubernetes, GitHub Actions, MLflow\nAI Frameworks: LangChain, PyTorch, Hugging Face\nTools: Git, GitHub, Linux, Postman",
+      "experience": "AI/ML Engineer \u2014 NexaSoft Technologies, Mumbai | Jul 2022 \u2013 Present\nDevelop and maintain machine learning services used in customer-facing enterprise applications.\nBuilt NLP pipelines for document classification, entity extraction, and semantic search.\nDesigned a RAG-based internal knowledge assistant using embeddings, ChromaDB, LangChain, and an LLM.\nDeveloped FastAPI services for model inference and integrated them with existing Java microservices.\nContainerized ML services using Docker and supported deployment workflows on AWS.\nImproved model monitoring and experiment tracking using MLflow.\nReviewed code, mentored junior developers, and participated in architecture discussions.\nSoftware Engineer \u2014 BlueOrbit Systems, Pune | Jun 2020 \u2013 Jun 2022\nDeveloped REST APIs and backend services using Python, Java, Spring Boot, and PostgreSQL.\nImplemented authentication, database operations, validation, and integration with third-party services.\nBuilt data-processing scripts using Python and Pandas to automate recurring operational tasks.\nWorked with Docker and CI/CD pipelines to automate testing and application deployments.\nCollaborated with frontend and QA teams to deliver production features.",
+      "projects": "1. Enterprise Document Intelligence Platform\nBuilt a RAG-based platform that retrieves relevant information from thousands of enterprise documents.\nUsed document chunking, embeddings, ChromaDB, LangChain, and LLM-based answer generation.\nAdded metadata filtering and source references for traceable responses.\n2. Predictive Customer Churn System\nDeveloped a classification pipeline to identify customers at risk of churn.\nPerformed feature engineering, model comparison, cross-validation, and performance monitoring.\nDeployed the selected model through a FastAPI inference service.\n3. Automated Invoice Processing System\nBuilt a document-processing workflow that extracts invoice information and validates structured fields.\nIntegrated OCR, Python processing services, PostgreSQL, and REST APIs.\nReduced manual data-entry effort by automating repetitive extraction tasks.",
+      "certifications": "AWS Certified Machine Learning \u2013 Specialty\nMachine Learning Engineering for Production (MLOps)\nGenerative AI and Large Language Models \u2014 Professional Certification\nLed an internal AI prototype that was adopted as a knowledge-search proof of concept.\nMentored junior engineers on Python, APIs, machine learning, and deployment practices.\nINTERESTS\nGenerative AI, Machine Learning Engineering, NLP, RAG Systems, Cloud Architecture, MLOps"
+    },
+    "full_text": "VIKRAM DESAI\nSenior Software Engineer | AI/ML Engineer\nMumbai, India | vikram.desai@example.com | +91 99887 66554 | linkedin.com/in/vikramdesai\nPROFESSIONAL SUMMARY\nSoftware and AI/ML Engineer with 6+ years of professional experience building backend systems, machine learning applications, and production AI services. Experienced in Python, Java, SQL, microservices, NLP, RAG, cloud platforms, and MLOps. Has worked across product development, model deployment, API design, and technical mentoring.\nTECHNICAL SKILLS\nProgramming: Python, Java, SQL, JavaScript\nMachine Learning: Scikit-learn, XGBoost, Classification, Regression, NLP, Feature Engineering\nGenerative AI: RAG, LLMs, Embeddings, Prompt Engineering, Semantic Search\nBackend: FastAPI, Flask, Spring Boot, REST APIs, Microservices\nDatabases: PostgreSQL, MySQL, MongoDB, Redis\nCloud/MLOps: AWS, Docker, Kubernetes, GitHub Actions, MLflow\nAI Frameworks: LangChain, PyTorch, Hugging Face\nTools: Git, GitHub, Linux, Postman\nPROFESSIONAL EXPERIENCE\nAI/ML Engineer \u2014 NexaSoft Technologies, Mumbai | Jul 2022 \u2013 Present\nDevelop and maintain machine learning services used in customer-facing enterprise applications.\nBuilt NLP pipelines for document classification, entity extraction, and semantic search.\nDesigned a RAG-based internal knowledge assistant using embeddings, ChromaDB, LangChain, and an LLM.\nDeveloped FastAPI services for model inference and integrated them with existing Java microservices.\nContainerized ML services using Docker and supported deployment workflows on AWS.\nImproved model monitoring and experiment tracking using MLflow.\nReviewed code, mentored junior developers, and participated in architecture discussions.\nSoftware Engineer \u2014 BlueOrbit Systems, Pune | Jun 2020 \u2013 Jun 2022\nDeveloped REST APIs and backend services using Python, Java, Spring Boot, and PostgreSQL.\nImplemented authentication, database operations, validation, and integration with third-party services.\nBuilt data-processing scripts using Python and Pandas to automate recurring operational tasks.\nWorked with Docker and CI/CD pipelines to automate testing and application deployments.\nCollaborated with frontend and QA teams to deliver production features.\nPROJECTS\n1. Enterprise Document Intelligence Platform\nBuilt a RAG-based platform that retrieves relevant information from thousands of enterprise documents.\nUsed document chunking, embeddings, ChromaDB, LangChain, and LLM-based answer generation.\nAdded metadata filtering and source references for traceable responses.\n2. Predictive Customer Churn System\nDeveloped a classification pipeline to identify customers at risk of churn.\nPerformed feature engineering, model comparison, cross-validation, and performance monitoring.\nDeployed the selected model through a FastAPI inference service.\n3. Automated Invoice Processing System\nBuilt a document-processing workflow that extracts invoice information and validates structured fields.\nIntegrated OCR, Python processing services, PostgreSQL, and REST APIs.\nReduced manual data-entry effort by automating repetitive extraction tasks.\nEDUCATION\nM.Tech in Artificial Intelligence \u2014 Institute of Technology Mumbai | 2018\u20132020 | CGPA: 8.9/10\nB.Tech in Computer Science and Engineering \u2014 Pune Engineering College | 2014\u20132018 | CGPA: 8.6/10\nCERTIFICATIONS\nAWS Certified Machine Learning \u2013 Specialty\nMachine Learning Engineering for Production (MLOps)\nGenerative AI and Large Language Models \u2014 Professional Certification\nACHIEVEMENTS\nLed an internal AI prototype that was adopted as a knowledge-search proof of concept.\nMentored junior engineers on Python, APIs, machine learning, and deployment practices.\nINTERESTS\nGenerative AI, Machine Learning Engineering, NLP, RAG Systems, Cloud Architecture, MLOps",
+    "chunk_count": 11
+  },
+  "cand_bc83233d": {
+    "candidate_id": "cand_bc83233d",
+    "candidate_name": "MEERA NAIR",
+    "resume_id": "bc83233d",
+    "filename": "ResumeRAG_Test_Resume_Meera_Nair.docx",
+    "upload_date": "2026-10-03T18:30:36.521321",
+    "contact_info": {
+      "email": "meera.nair@example.com",
+      "phone": "",
+      "linkedin": "linkedin.com/in/meeranair",
+      "github": ""
+    },
+    "skills": [
+      "Python",
+      "Javascript",
+      "Sql",
+      "Machine learning",
+      "Deep learning",
+      "Nlp",
+      "Natural language processing",
+      "Generative ai",
+      "Rag",
+      "Chromadb",
+      "Faiss",
+      "Langchain",
+      "Pytorch",
+      "Scikit-learn",
+      "Pandas",
+      "Numpy",
+      "Docker",
+      "Fastapi",
+      "Flask",
+      "Git"
+    ],
+    "section_dict": {
+      "summary": "NLP and Generative AI Developer with practical experience in document intelligence, text classification, retrieval-augmented generation, embeddings, and conversational AI. Skilled in Python, LangChain, Hugging Face, FastAPI, vector databases, and prompt engineering. Experienced in developing AI prototypes that combine retrieval systems with large language models.",
+      "education": "B.Tech in Artificial Intelligence and Data Science \u2014 Kerala Institute of Technology, Kochi | 2022\u20132026 | CGPA: 8.8/10\nHigher Secondary Education \u2014 Government Model Higher Secondary School, Kochi | 2022 | 93%",
+      "skills": "Programming: Python, SQL, JavaScript\nAI/ML: Machine Learning, NLP, Deep Learning, Text Classification, Named Entity Recognition\nGenerative AI: RAG, LLMs, Prompt Engineering, Embeddings, Semantic Search\nFrameworks: LangChain, FastAPI, Flask, Streamlit\nVector Databases: ChromaDB, FAISS, Pinecone\nLibraries: Scikit-learn, Pandas, NumPy, Transformers, PyTorch\nDatabases: PostgreSQL, MongoDB\nTools: Git, GitHub, Docker, Jupyter",
+      "experience": "Generative AI Intern \u2014 InnovateAI Labs, Kochi | Jan 2026 \u2013 Jun 2026\nBuilt proof-of-concept RAG applications using embeddings, vector databases, and LLM APIs.\nEvaluated retrieval quality and improved prompts for more relevant and grounded responses.\nPrepared document-processing pipelines for PDFs and text-based knowledge sources.",
+      "projects": "1. Legal Document RAG Assistant\nDeveloped a RAG chatbot that retrieves relevant clauses from uploaded legal documents before generating responses.\nUsed document chunking, embeddings, ChromaDB, LangChain, and an LLM to provide context-aware answers.\nAdded source references so users can identify the document sections used for each response.\n2. Customer Review Sentiment and Topic Analyzer\nBuilt an NLP pipeline to classify customer reviews and identify frequently discussed topics.\nApplied text preprocessing, TF-IDF features, Logistic Regression, and evaluation using precision, recall, and F1-score.\nCreated a dashboard to visualize sentiment distribution and common customer concerns.\n3. Medical FAQ Chatbot\nCreated a retrieval-based chatbot for answering questions from a curated healthcare knowledge base.\nImplemented semantic search using sentence embeddings and FAISS.\nDesigned the system to return relevant source passages together with generated responses.\n4. Resume Skill Extraction System\nDeveloped an NLP application that extracts skills, education, experience, and project information from resumes.\nUsed Python, regular expressions, NLP preprocessing, and named-entity style extraction techniques.\nPrepared structured candidate profiles that can be searched by recruiters.",
+      "certifications": "Generative AI with Large Language Models \u2014 Online Certification\nNatural Language Processing with Python \u2014 Online Certification\nDeep Learning Fundamentals \u2014 Online Certification\nPresented a Generative AI project at a university innovation showcase.\nParticipated in an NLP-focused hackathon and developed a document question-answering prototype.\nINTERESTS\nGenerative AI, NLP, RAG Systems, LLM Applications, Document Intelligence, Conversational AI"
+    },
+    "full_text": "MEERA NAIR\nNLP Engineer | Generative AI Developer\nKochi, India | meera.nair@example.com | +91 93456 78120 | linkedin.com/in/meeranair\nPROFESSIONAL SUMMARY\nNLP and Generative AI Developer with practical experience in document intelligence, text classification, retrieval-augmented generation, embeddings, and conversational AI. Skilled in Python, LangChain, Hugging Face, FastAPI, vector databases, and prompt engineering. Experienced in developing AI prototypes that combine retrieval systems with large language models.\nTECHNICAL SKILLS\nProgramming: Python, SQL, JavaScript\nAI/ML: Machine Learning, NLP, Deep Learning, Text Classification, Named Entity Recognition\nGenerative AI: RAG, LLMs, Prompt Engineering, Embeddings, Semantic Search\nFrameworks: LangChain, FastAPI, Flask, Streamlit\nVector Databases: ChromaDB, FAISS, Pinecone\nLibraries: Scikit-learn, Pandas, NumPy, Transformers, PyTorch\nDatabases: PostgreSQL, MongoDB\nTools: Git, GitHub, Docker, Jupyter\nEDUCATION\nB.Tech in Artificial Intelligence and Data Science \u2014 Kerala Institute of Technology, Kochi | 2022\u20132026 | CGPA: 8.8/10\nHigher Secondary Education \u2014 Government Model Higher Secondary School, Kochi | 2022 | 93%\nPROJECTS\n1. Legal Document RAG Assistant\nDeveloped a RAG chatbot that retrieves relevant clauses from uploaded legal documents before generating responses.\nUsed document chunking, embeddings, ChromaDB, LangChain, and an LLM to provide context-aware answers.\nAdded source references so users can identify the document sections used for each response.\n2. Customer Review Sentiment and Topic Analyzer\nBuilt an NLP pipeline to classify customer reviews and identify frequently discussed topics.\nApplied text preprocessing, TF-IDF features, Logistic Regression, and evaluation using precision, recall, and F1-score.\nCreated a dashboard to visualize sentiment distribution and common customer concerns.\n3. Medical FAQ Chatbot\nCreated a retrieval-based chatbot for answering questions from a curated healthcare knowledge base.\nImplemented semantic search using sentence embeddings and FAISS.\nDesigned the system to return relevant source passages together with generated responses.\n4. Resume Skill Extraction System\nDeveloped an NLP application that extracts skills, education, experience, and project information from resumes.\nUsed Python, regular expressions, NLP preprocessing, and named-entity style extraction techniques.\nPrepared structured candidate profiles that can be searched by recruiters.\nEXPERIENCE\nGenerative AI Intern \u2014 InnovateAI Labs, Kochi | Jan 2026 \u2013 Jun 2026\nBuilt proof-of-concept RAG applications using embeddings, vector databases, and LLM APIs.\nEvaluated retrieval quality and improved prompts for more relevant and grounded responses.\nPrepared document-processing pipelines for PDFs and text-based knowledge sources.\nCERTIFICATIONS\nGenerative AI with Large Language Models \u2014 Online Certification\nNatural Language Processing with Python \u2014 Online Certification\nDeep Learning Fundamentals \u2014 Online Certification\nACHIEVEMENTS\nPresented a Generative AI project at a university innovation showcase.\nParticipated in an NLP-focused hackathon and developed a document question-answering prototype.\nINTERESTS\nGenerative AI, NLP, RAG Systems, LLM Applications, Document Intelligence, Conversational AI",
+    "chunk_count": 10
+  },
+  "cand_7736fbd5": {
+    "candidate_id": "cand_7736fbd5",
+    "candidate_name": "ROHAN IYER",
+    "resume_id": "7736fbd5",
+    "filename": "ResumeRAG_Test_Resume_Rohan_Iyer.docx",
+    "upload_date": "2026-10-03T18:30:37.827847",
+    "contact_info": {
+      "email": "rohan.iyer@example.com",
+      "phone": "",
+      "linkedin": "linkedin.com/in/rohniyer",
+      "github": ""
+    },
+    "skills": [
+      "Python",
+      "Java",
+      "Javascript",
+      "Typescript",
+      "Html",
+      "Css",
+      "Docker",
+      "Kubernetes",
+      "Aws",
+      "Fastapi",
+      "Flask",
+      "React",
+      "Node.js",
+      "Git",
+      "Ci/cd",
+      "Rest api"
+    ],
+    "section_dict": {
+      "summary": "Backend Developer and Cloud Engineer experienced in building REST APIs, database-driven applications, containerized services, and cloud deployment workflows. Skilled in Python, FastAPI, Node.js, PostgreSQL, Docker, AWS, and Linux. Interested in scalable backend systems, distributed applications, and cloud automation.",
+      "education": "B.Tech in Computer Science and Engineering \u2014 Western Institute of Technology, Pune | 2022\u20132026 | CGPA: 8.3/10\nHigher Secondary Education \u2014 St. Xavier's Junior College, Pune | 2022 | 87%",
+      "skills": "Programming: Python, Java, JavaScript, TypeScript\nBackend: FastAPI, Flask, Node.js, Express.js, REST APIs\nDatabases: PostgreSQL, MySQL, MongoDB, Redis\nCloud & DevOps: AWS, Docker, GitHub Actions, Linux, CI/CD\nFrontend: React, HTML, CSS\nOther: Git, GitHub, Postman, JWT, Microservices",
+      "experience": "Backend Development Intern \u2014 CloudEdge Technologies, Pune | Jan 2026 \u2013 Jun 2026\nDeveloped and tested REST API endpoints using Python and FastAPI.\nWorked with PostgreSQL queries, database schemas, and API integration.\nUsed Docker and GitHub Actions to support development and deployment workflows.",
+      "projects": "1. Cloud-Based Document Management System\nBuilt a secure REST API for uploading, organizing, downloading, and managing documents.\nDeveloped backend services using FastAPI and PostgreSQL with JWT-based authentication.\nContainerized the application using Docker and created a CI/CD workflow for automated deployment.\n2. Real-Time Food Delivery Backend\nDeveloped backend APIs for users, restaurants, menus, orders, and delivery tracking.\nUsed Node.js, Express.js, PostgreSQL, and Redis for API development, data storage, and caching.\nImplemented role-based authentication and order-status workflows.\n3. Server Monitoring and Alerting System\nCreated a monitoring service that collects CPU, memory, disk, and application health metrics.\nDeveloped alert rules and notification workflows for abnormal resource usage.\nUsed Python, Linux utilities, PostgreSQL, and Docker for implementation.\n4. Student Course Management API\nDeveloped REST APIs for student registration, courses, enrollment, attendance, and instructor management.\nDesigned normalized PostgreSQL tables and implemented CRUD operations using FastAPI.\nAdded API validation, authentication, and automated endpoint testing.",
+      "certifications": "AWS Cloud Practitioner Essentials \u2014 Online Certification\nDocker and Kubernetes Fundamentals \u2014 Online Certification\nPython Backend Development \u2014 Online Certification\nDeveloped a cloud deployment prototype during a university hackathon.\nContributed to an open-source backend utility project on GitHub.\nINTERESTS\nCloud Computing, Backend Engineering, DevOps, Distributed Systems, APIs, Database Design"
+    },
+    "full_text": "ROHAN IYER\nBackend Developer | Cloud & DevOps Engineer\nPune, India | rohan.iyer@example.com | +91 90123 45678 | linkedin.com/in/rohniyer\nPROFESSIONAL SUMMARY\nBackend Developer and Cloud Engineer experienced in building REST APIs, database-driven applications, containerized services, and cloud deployment workflows. Skilled in Python, FastAPI, Node.js, PostgreSQL, Docker, AWS, and Linux. Interested in scalable backend systems, distributed applications, and cloud automation.\nTECHNICAL SKILLS\nProgramming: Python, Java, JavaScript, TypeScript\nBackend: FastAPI, Flask, Node.js, Express.js, REST APIs\nDatabases: PostgreSQL, MySQL, MongoDB, Redis\nCloud & DevOps: AWS, Docker, GitHub Actions, Linux, CI/CD\nFrontend: React, HTML, CSS\nOther: Git, GitHub, Postman, JWT, Microservices\nEDUCATION\nB.Tech in Computer Science and Engineering \u2014 Western Institute of Technology, Pune | 2022\u20132026 | CGPA: 8.3/10\nHigher Secondary Education \u2014 St. Xavier's Junior College, Pune | 2022 | 87%\nPROJECTS\n1. Cloud-Based Document Management System\nBuilt a secure REST API for uploading, organizing, downloading, and managing documents.\nDeveloped backend services using FastAPI and PostgreSQL with JWT-based authentication.\nContainerized the application using Docker and created a CI/CD workflow for automated deployment.\n2. Real-Time Food Delivery Backend\nDeveloped backend APIs for users, restaurants, menus, orders, and delivery tracking.\nUsed Node.js, Express.js, PostgreSQL, and Redis for API development, data storage, and caching.\nImplemented role-based authentication and order-status workflows.\n3. Server Monitoring and Alerting System\nCreated a monitoring service that collects CPU, memory, disk, and application health metrics.\nDeveloped alert rules and notification workflows for abnormal resource usage.\nUsed Python, Linux utilities, PostgreSQL, and Docker for implementation.\n4. Student Course Management API\nDeveloped REST APIs for student registration, courses, enrollment, attendance, and instructor management.\nDesigned normalized PostgreSQL tables and implemented CRUD operations using FastAPI.\nAdded API validation, authentication, and automated endpoint testing.\nEXPERIENCE\nBackend Development Intern \u2014 CloudEdge Technologies, Pune | Jan 2026 \u2013 Jun 2026\nDeveloped and tested REST API endpoints using Python and FastAPI.\nWorked with PostgreSQL queries, database schemas, and API integration.\nUsed Docker and GitHub Actions to support development and deployment workflows.\nCERTIFICATIONS\nAWS Cloud Practitioner Essentials \u2014 Online Certification\nDocker and Kubernetes Fundamentals \u2014 Online Certification\nPython Backend Development \u2014 Online Certification\nACHIEVEMENTS\nDeveloped a cloud deployment prototype during a university hackathon.\nContributed to an open-source backend utility project on GitHub.\nINTERESTS\nCloud Computing, Backend Engineering, DevOps, Distributed Systems, APIs, Database Design",
+    "chunk_count": 10
+  },
+  "cand_0aeb9cda": {
+    "candidate_id": "cand_0aeb9cda",
+    "candidate_name": "NEHA SHARMA",
+    "resume_id": "0aeb9cda",
+    "filename": "ResumeRAG_Test_Resume_Neha_Sharma.docx",
+    "upload_date": "2026-10-03T18:30:39.191589",
+    "contact_info": {
+      "email": "neha.sharma@example.com",
+      "phone": "",
+      "linkedin": "linkedin.com/in/nehasharma",
+      "github": ""
+    },
+    "skills": [
+      "Python",
+      "Java",
+      "Javascript",
+      "Html",
+      "Css",
+      "Sql",
+      "Machine learning",
+      "Nlp",
+      "Scikit-learn",
+      "Pandas",
+      "Numpy",
+      "Data analysis",
+      "Flask",
+      "Git",
+      "Power bi"
+    ],
+    "section_dict": {
+      "summary": "Data Analyst and Python Developer with experience in data preprocessing, SQL, visualization, backend development, and business analytics. Skilled in transforming structured data into useful insights and building practical web applications. Familiar with Python, SQL, Power BI, Flask, PostgreSQL, and JavaScript.",
+      "education": "B.Tech in Information Technology \u2014 XYZ University, Hyderabad | 2022\u20132026 | CGPA: 8.5/10\nHigher Secondary Education \u2014 Sunrise Junior College, Hyderabad | 2022 | 89%",
+      "skills": "Programming: Python, JavaScript, SQL, Java\nData Analytics: Pandas, NumPy, Excel, Power BI, Matplotlib\nMachine Learning: Data Preprocessing, Regression, Classification, KNN, Decision Trees\nWeb Development: HTML, CSS, JavaScript, Flask\nDatabases: PostgreSQL, MySQL\nTools: Git, GitHub, Jupyter Notebook, VS Code",
+      "experience": "Data Analytics Intern \u2014 DataBridge Technologies, Hyderabad | Feb 2026 \u2013 Jul 2026\nCleaned and analyzed business datasets using Python, Pandas, and SQL.\nCreated dashboards and reports to communicate sales and customer trends.\nAssisted in developing data validation scripts and automated reporting workflows.",
+      "projects": "1. E-Commerce Sales Analytics Dashboard\nAnalyzed sales data containing products, customers, regions, orders, revenue, and delivery information.\nCreated Power BI dashboards to visualize monthly sales, category performance, regional revenue, and customer contributions.\nUsed SQL and Pandas for data cleaning, aggregation, and analysis.\n2. Employee Attrition Prediction\nDeveloped a machine learning model to predict employee attrition using demographic, job, and performance-related features.\nPerformed exploratory data analysis, categorical encoding, feature scaling, and model evaluation.\nCompared Logistic Regression, Decision Tree, and KNN classification models.\n3. Online Book Management System\nBuilt a web-based application for managing books, authors, borrowers, and issue/return records.\nDeveloped backend APIs using Flask and PostgreSQL.\nImplemented CRUD operations and SQL queries for managing library data.\n4. Customer Feedback Sentiment Analyzer\nCreated an NLP application that classifies customer feedback as positive, negative, or neutral.\nPerformed text cleaning, tokenization, feature extraction, and classification using Python and Scikit-learn.\nDesigned a simple web interface for submitting feedback and viewing predictions.",
+      "certifications": "Python for Data Science \u2014 Online Certification\nSQL and Relational Databases \u2014 Online Certification\nPower BI Data Analytics \u2014 Online Certification\nPresented a data analytics project at a university technology showcase.\nParticipated in a national-level coding and analytics hackathon.\nINTERESTS\nData Analytics, Python Development, SQL, Business Intelligence, Machine Learning, NLP"
+    },
+    "full_text": "NEHA SHARMA\nData Analyst | Python Developer\nHyderabad, India | neha.sharma@example.com | +91 91234 56789 | linkedin.com/in/nehasharma\nPROFESSIONAL SUMMARY\nData Analyst and Python Developer with experience in data preprocessing, SQL, visualization, backend development, and business analytics. Skilled in transforming structured data into useful insights and building practical web applications. Familiar with Python, SQL, Power BI, Flask, PostgreSQL, and JavaScript.\nTECHNICAL SKILLS\nProgramming: Python, JavaScript, SQL, Java\nData Analytics: Pandas, NumPy, Excel, Power BI, Matplotlib\nMachine Learning: Data Preprocessing, Regression, Classification, KNN, Decision Trees\nWeb Development: HTML, CSS, JavaScript, Flask\nDatabases: PostgreSQL, MySQL\nTools: Git, GitHub, Jupyter Notebook, VS Code\nEDUCATION\nB.Tech in Information Technology \u2014 XYZ University, Hyderabad | 2022\u20132026 | CGPA: 8.5/10\nHigher Secondary Education \u2014 Sunrise Junior College, Hyderabad | 2022 | 89%\nPROJECTS\n1. E-Commerce Sales Analytics Dashboard\nAnalyzed sales data containing products, customers, regions, orders, revenue, and delivery information.\nCreated Power BI dashboards to visualize monthly sales, category performance, regional revenue, and customer contributions.\nUsed SQL and Pandas for data cleaning, aggregation, and analysis.\n2. Employee Attrition Prediction\nDeveloped a machine learning model to predict employee attrition using demographic, job, and performance-related features.\nPerformed exploratory data analysis, categorical encoding, feature scaling, and model evaluation.\nCompared Logistic Regression, Decision Tree, and KNN classification models.\n3. Online Book Management System\nBuilt a web-based application for managing books, authors, borrowers, and issue/return records.\nDeveloped backend APIs using Flask and PostgreSQL.\nImplemented CRUD operations and SQL queries for managing library data.\n4. Customer Feedback Sentiment Analyzer\nCreated an NLP application that classifies customer feedback as positive, negative, or neutral.\nPerformed text cleaning, tokenization, feature extraction, and classification using Python and Scikit-learn.\nDesigned a simple web interface for submitting feedback and viewing predictions.\nEXPERIENCE\nData Analytics Intern \u2014 DataBridge Technologies, Hyderabad | Feb 2026 \u2013 Jul 2026\nCleaned and analyzed business datasets using Python, Pandas, and SQL.\nCreated dashboards and reports to communicate sales and customer trends.\nAssisted in developing data validation scripts and automated reporting workflows.\nCERTIFICATIONS\nPython for Data Science \u2014 Online Certification\nSQL and Relational Databases \u2014 Online Certification\nPower BI Data Analytics \u2014 Online Certification\nACHIEVEMENTS\nPresented a data analytics project at a university technology showcase.\nParticipated in a national-level coding and analytics hackathon.\nINTERESTS\nData Analytics, Python Development, SQL, Business Intelligence, Machine Learning, NLP",
+    "chunk_count": 10
+  },
+  "cand_24696475": {
+    "candidate_id": "cand_24696475",
+    "candidate_name": "ARJUN MEHTA",
+    "resume_id": "24696475",
+    "filename": "ResumeRAG_Test_Resume_Arjun_Mehta.docx",
+    "upload_date": "2026-10-03T18:30:41.194746",
+    "contact_info": {
+      "email": "arjun.mehta@example.com",
+      "phone": "",
+      "linkedin": "linkedin.com/in/arjunmehta",
+      "github": ""
+    },
+    "skills": [
+      "Python",
+      "Java",
+      "Javascript",
+      "Sql",
+      "Machine learning",
+      "Deep learning",
+      "Nlp",
+      "Generative ai",
+      "Rag",
+      "Chromadb",
+      "Faiss",
+      "Langchain",
+      "Scikit-learn",
+      "Pandas",
+      "Numpy",
+      "Predictive modeling",
+      "Random forest",
+      "Data analysis",
+      "Docker",
+      "Fastapi",
+      "Flask",
+      "React",
+      "Git",
+      "Power bi"
+    ],
+    "section_dict": {
+      "summary": "Machine Learning Engineer with hands-on experience in Python, supervised learning, NLP, RAG systems, and data analytics. Built end-to-end AI applications involving document processing, semantic search, predictive modeling, and chatbot development. Interested in developing reliable AI solutions for real-world business problems.",
+      "education": "B.Tech in Computer Science and Engineering \u2014 ABC Institute of Technology, Bengaluru | 2022\u20132026 | CGPA: 8.7/10\nHigher Secondary Education \u2014 National Public School, Bengaluru | 2022 | 91%",
+      "skills": "Programming: Python, Java, SQL, JavaScript\nMachine Learning: Regression, Classification, Random Forest, SVM, KNN, Feature Engineering, Model Evaluation\nAI/NLP: RAG, Embeddings, NLP, Semantic Search, Prompt Engineering\nFrameworks: FastAPI, Flask, React, LangChain\nVector Databases: ChromaDB, FAISS\nData: Pandas, NumPy, Matplotlib, Scikit-learn\nDatabases: PostgreSQL, MySQL\nTools: Git, GitHub, Docker, Jupyter Notebook",
+      "experience": "AI/ML Intern \u2014 TechNova Solutions, Bengaluru | Jan 2026 \u2013 Jun 2026\nPrepared datasets and performed exploratory data analysis for machine learning projects.\nImplemented classification models and compared performance using accuracy, precision, recall, and F1-score.\nAssisted in developing an internal semantic-search prototype for technical documents.",
+      "projects": "1. ResumeRAG \u2013 AI-Powered Resume Intelligence System\nDeveloped a multi-resume RAG application that enables recruiters to search candidates using natural-language queries.\nProcessed PDF resumes into chunks, generated embeddings, and stored them in ChromaDB with candidate and section metadata.\nImplemented semantic retrieval for queries such as Machine Learning, Python, NLP, and Deep Learning.\nGenerated personalized interview questions from the selected candidate's resume using an LLM.\n2. Predictive Maintenance System\nBuilt a machine learning system to predict equipment failure using sensor features such as temperature, rotational speed, torque, and tool wear.\nPerformed preprocessing, missing-value handling, feature scaling, model training, and evaluation using Scikit-learn.\nDeployed the trained model through a Flask web application for real-time predictions.\n3. Customer Support RAG Chatbot\nCreated a document-based chatbot that retrieves relevant information from company knowledge documents before generating answers.\nUsed LangChain, embeddings, vector search, and an LLM to provide context-aware responses with source references.\n4. Sales Analytics Dashboard\nDeveloped an analytics dashboard to study revenue trends, regional performance, product sales, and customer contributions.\nUsed Python, Pandas, SQL, and Power BI for data preparation, analysis, and visualization.",
+      "certifications": "Machine Learning with Python \u2014 Online Certification\nSQL for Data Analytics \u2014 Online Certification\nGenerative AI and RAG Fundamentals \u2014 Online Certification\nFinalist in an inter-college AI/ML hackathon.\nBuilt multiple academic prototypes involving machine learning, NLP, and full-stack development.\nINTERESTS\nMachine Learning, Generative AI, NLP, RAG Systems, Data Analytics, Full-Stack AI Applications"
+    },
+    "full_text": "ARJUN MEHTA\nMachine Learning Engineer | AI Developer\nBengaluru, India | arjun.mehta@example.com | +91 98765 43210 | linkedin.com/in/arjunmehta\nPROFESSIONAL SUMMARY\nMachine Learning Engineer with hands-on experience in Python, supervised learning, NLP, RAG systems, and data analytics. Built end-to-end AI applications involving document processing, semantic search, predictive modeling, and chatbot development. Interested in developing reliable AI solutions for real-world business problems.\nTECHNICAL SKILLS\nProgramming: Python, Java, SQL, JavaScript\nMachine Learning: Regression, Classification, Random Forest, SVM, KNN, Feature Engineering, Model Evaluation\nAI/NLP: RAG, Embeddings, NLP, Semantic Search, Prompt Engineering\nFrameworks: FastAPI, Flask, React, LangChain\nVector Databases: ChromaDB, FAISS\nData: Pandas, NumPy, Matplotlib, Scikit-learn\nDatabases: PostgreSQL, MySQL\nTools: Git, GitHub, Docker, Jupyter Notebook\nEDUCATION\nB.Tech in Computer Science and Engineering \u2014 ABC Institute of Technology, Bengaluru | 2022\u20132026 | CGPA: 8.7/10\nHigher Secondary Education \u2014 National Public School, Bengaluru | 2022 | 91%\nPROJECTS\n1. ResumeRAG \u2013 AI-Powered Resume Intelligence System\nDeveloped a multi-resume RAG application that enables recruiters to search candidates using natural-language queries.\nProcessed PDF resumes into chunks, generated embeddings, and stored them in ChromaDB with candidate and section metadata.\nImplemented semantic retrieval for queries such as Machine Learning, Python, NLP, and Deep Learning.\nGenerated personalized interview questions from the selected candidate's resume using an LLM.\n2. Predictive Maintenance System\nBuilt a machine learning system to predict equipment failure using sensor features such as temperature, rotational speed, torque, and tool wear.\nPerformed preprocessing, missing-value handling, feature scaling, model training, and evaluation using Scikit-learn.\nDeployed the trained model through a Flask web application for real-time predictions.\n3. Customer Support RAG Chatbot\nCreated a document-based chatbot that retrieves relevant information from company knowledge documents before generating answers.\nUsed LangChain, embeddings, vector search, and an LLM to provide context-aware responses with source references.\n4. Sales Analytics Dashboard\nDeveloped an analytics dashboard to study revenue trends, regional performance, product sales, and customer contributions.\nUsed Python, Pandas, SQL, and Power BI for data preparation, analysis, and visualization.\nEXPERIENCE\nAI/ML Intern \u2014 TechNova Solutions, Bengaluru | Jan 2026 \u2013 Jun 2026\nPrepared datasets and performed exploratory data analysis for machine learning projects.\nImplemented classification models and compared performance using accuracy, precision, recall, and F1-score.\nAssisted in developing an internal semantic-search prototype for technical documents.\nCERTIFICATIONS\nMachine Learning with Python \u2014 Online Certification\nSQL for Data Analytics \u2014 Online Certification\nGenerative AI and RAG Fundamentals \u2014 Online Certification\nACHIEVEMENTS\nFinalist in an inter-college AI/ML hackathon.\nBuilt multiple academic prototypes involving machine learning, NLP, and full-stack development.\nINTERESTS\nMachine Learning, Generative AI, NLP, RAG Systems, Data Analytics, Full-Stack AI Applications",
+    "chunk_count": 10
+  },
+  "cand_afb68dff": {
+    "candidate_id": "cand_afb68dff",
+    "candidate_name": "DHARSHINI B",
+    "resume_id": "afb68dff",
+    "filename": "DHARSHU RESUME OG.pdf",
+    "upload_date": "2026-10-03T18:31:54.644456",
+    "contact_info": {
+      "email": "dharshinib1027@gmail.com",
+      "phone": "9080967439",
+      "linkedin": "linkedin.com/in/dharshini-b-163023334",
+      "github": "github.com/dharshinib1027"
+    },
+    "skills": [
+      "Python",
+      "Java",
+      "Javascript",
+      "Html",
+      "Css",
+      "Machine learning",
+      "Nlp",
+      "Rag",
+      "Faiss",
+      "Langchain",
+      "Fastapi",
+      "Flask",
+      "Power bi"
+    ],
+    "section_dict": {
+      "summary": "Motivated B.Tech AI & Data Science student with hands-on experience in AI/ML and web development. Skilled in Python, Java, \nHTML, CSS,  Flask, and MySQL. Passionate about learning new technologies and building practical solutions.",
+      "education": "Bachelor of Technology \u2013 Artificial Intelligence and Data Science \n Sri Manakula Vinayagar Engineering College | 2024 \u2013 2028 | CGPA: 9.41 \n \nHigher Secondary  \nHoly Flowers Higher Secondary School | HSC (Biology): 91% | 2023-2024 | SSLC: 92.4% | 2022-2023",
+      "skills": "",
+      "experience": "Application & UI/UX Developer Arviona Labs \u00b7 Internship | Dec 2025 \u2013 Present | Puducherry, India \u00b7 Remote \n \nTECHNICAL SKILLS                                                              SOFT SKILLS \nProgramming: Python, Java                                                                 \u2022 Communication \nWeb Development: HTML, CSS, Flask, FastAPI                                \u2022 Teamwork & Collaboration \nDatabases: MySQL                                                                               \u2022 Problem Solving \nAI/ML: Machine Learning, Rag, NLP                                                  \u2022 Adaptability    \nTools & Platforms: GitHub, VS Code, Canva, Power BI",
+      "projects": "Travel RAG Chatbot                                                                                                                                     Duration: Feb26-March26  \nTechStack: Python, LangChain, FAISS, Flask        Role: FullStack                                                                           \n\u2022 Developed a RAG-based travel chatbot using LangChain, Hugging Face embeddings, and FAISS to retrieve relevant information from custom \ntravel documents. \n\u2022 Integrated an LLM to generate context-aware answers based on retrieved hotel, transportation, destination, and trip-planning data. \n\u2022 Built and deployed the chatbot interface using Flask, HTML, CSS, and JavaScript with persistent FAISS vector storage. \n\u2022 Implemented document processing and text chunking to convert travel documents into searchable knowledge for efficient information retrieval. \n\u2022 Designed the retrieval pipeline to provide relevant context to the LLM, improving the accuracy and relevance of chatbot responses. \n \nCONTRACT AI \u2013 AI Powered Contract Risk Analysis Platform                                                           Duration: Aug26-ongoing                 \nTechStack: Python, FastAPI, SQLite, SQLAlchemy, ML/NLP, REST APIs, ReportLab   Role:Backend \n\u2022 Developed an AI-powered contract analysis system to automatically extract contract information, detect clauses, identify risks, and classify \ncontract types. \n\u2022 Built a modular FastAPI backend with dedicated routers and services for clause detection, risk scoring, recommendations, renewal analysis, \ncompliance checks, and contract summarization.  \n\u2022 Implemented rule-based playbook compliance to evaluate contracts against company policies, including notice periods, prohibited terms, \ngoverning laws, cure periods, and liability limits. \n\u2022 Generated downloadable PDF reports and automated renewal alerts with SMTP-based email notifications to help users track contract risks and \ndeadlines.",
+      "certifications": "\u2022 NPTEL Certified Courses: Java | Python for Data Science | Problem Solving through C Programming  \n\u2022 Deloitte Australia \u2013 Data Analytics Job Simulation \u2013 Forage, Issued Feb 2026 \n\u2022 Agentic Intelligence \u2013 Foundations of the Next-Gen AI Engineer | June 2026\n\u2022 Participated in the Samgatha Vashisth Hackathon at IIT Delhi Kancheepuram. \n \nLANGUAGES \nTamil, English"
+    },
+    "full_text": "DHARSHINI B \n9080967439  |  dharshinib1027@gmail.com  |  Puducherry \nLinkedIn: linkedin.com/in/dharshini-b-163023334  |  GitHub: https:github.com/dharshinib1027  \nLeetCode: leetcode.com/u/DHARSHINIB10/ \nABOUT ME \nMotivated B.Tech AI & Data Science student with hands-on experience in AI/ML and web development. Skilled in Python, Java, \nHTML, CSS,  Flask, and MySQL. Passionate about learning new technologies and building practical solutions. \n \nEDUCATION \nBachelor of Technology \u2013 Artificial Intelligence and Data Science \n Sri Manakula Vinayagar Engineering College | 2024 \u2013 2028 | CGPA: 9.41 \n \nHigher Secondary  \nHoly Flowers Higher Secondary School | HSC (Biology): 91% | 2023-2024 | SSLC: 92.4% | 2022-2023 \n \nEXPERIENCE \nApplication & UI/UX Developer Arviona Labs \u00b7 Internship | Dec 2025 \u2013 Present | Puducherry, India \u00b7 Remote \n \nTECHNICAL SKILLS                                                              SOFT SKILLS \nProgramming: Python, Java                                                                 \u2022 Communication \nWeb Development: HTML, CSS, Flask, FastAPI                                \u2022 Teamwork & Collaboration \nDatabases: MySQL                                                                               \u2022 Problem Solving \nAI/ML: Machine Learning, Rag, NLP                                                  \u2022 Adaptability    \nTools & Platforms: GitHub, VS Code, Canva, Power BI \n  \nPROJECTS \nTravel RAG Chatbot                                                                                                                                     Duration: Feb26-March26  \nTechStack: Python, LangChain, FAISS, Flask        Role: FullStack                                                                           \n\u2022 Developed a RAG-based travel chatbot using LangChain, Hugging Face embeddings, and FAISS to retrieve relevant information from custom \ntravel documents. \n\u2022 Integrated an LLM to generate context-aware answers based on retrieved hotel, transportation, destination, and trip-planning data. \n\u2022 Built and deployed the chatbot interface using Flask, HTML, CSS, and JavaScript with persistent FAISS vector storage. \n\u2022 Implemented document processing and text chunking to convert travel documents into searchable knowledge for efficient information retrieval. \n\u2022 Designed the retrieval pipeline to provide relevant context to the LLM, improving the accuracy and relevance of chatbot responses. \n \nCONTRACT AI \u2013 AI Powered Contract Risk Analysis Platform                                                           Duration: Aug26-ongoing                 \nTechStack: Python, FastAPI, SQLite, SQLAlchemy, ML/NLP, REST APIs, ReportLab   Role:Backend \n\u2022 Developed an AI-powered contract analysis system to automatically extract contract information, detect clauses, identify risks, and classify \ncontract types. \n\u2022 Built a modular FastAPI backend with dedicated routers and services for clause detection, risk scoring, recommendations, renewal analysis, \ncompliance checks, and contract summarization.  \n\u2022 Implemented rule-based playbook compliance to evaluate contracts against company policies, including notice periods, prohibited terms, \ngoverning laws, cure periods, and liability limits. \n\u2022 Generated downloadable PDF reports and automated renewal alerts with SMTP-based email notifications to help users track contract risks and \ndeadlines. \n \nCERTIFICATIONS \n\u2022 NPTEL Certified Courses: Java | Python for Data Science | Problem Solving through C Programming  \n\u2022 Deloitte Australia \u2013 Data Analytics Job Simulation \u2013 Forage, Issued Feb 2026 \n\u2022 Agentic Intelligence \u2013 Foundations of the Next-Gen AI Engineer | June 2026 \n \nACHIEVEMENTS \n\u2022 Participated in the Samgatha Vashisth Hackathon at IIT Delhi Kancheepuram. \n \nLANGUAGES \nTamil, English \n",
+    "chunk_count": 12
+  }
+}
